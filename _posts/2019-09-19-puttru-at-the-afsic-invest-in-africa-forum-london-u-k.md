@@ -4,7 +4,14 @@ post_title: >
   PUTTRU at the AFSIC Invest In Africa
   Forum, London, U.K
 author: Admin
-post_excerpt: ""
+post_excerpt: >
+  On 9 May 2019, PUTTRU was in focus at
+  the session on ‘Fintech Innovation
+  Opportunities’, which brought together
+  founders and/or CEOs of innovative
+  fintech companies in Africa as well as
+  those investors that specialize in this
+  sector.
 layout: post
 permalink: >
   https://www.puttru.com/puttru_blog/puttru-at-the-afsic-invest-in-africa-forum-london-u-k/
