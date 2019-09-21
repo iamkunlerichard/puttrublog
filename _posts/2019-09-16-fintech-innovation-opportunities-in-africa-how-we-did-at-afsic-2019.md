@@ -25,6 +25,8 @@ The five companies in question include: <a href="https://corporate.mybucks.com/"
 Like many of the investors and business leaders that attended the AFSIC event, we went to London to assess the latest innovations coming from the African continent. As a startup, we used that opportunity to re-examine and revalidate the gap we aim to fill in Africa’s energy sector and the unique role we aim to play as the leading one-stop capital raising solution for the continent’s energy market. Furthermore, our purpose of speaking at AFSIC 2019 was to share with members of the global fintech community what to expect from the launch of our electronic platform. Our message, in one sentence, is that ‘<strong><em>we are more than a capital raising platform’</em></strong>.
 
 <em>Curious on what that means? Watch the video of our presentation below.</em>
+
+[cvm_playlist theme="carousel" aspect_ratio="4x3" width="640" volume="25" videos="617"]
 <h3>Our takeaways from AFSIC</h3>
 <ol>
  	<li>“AFSIC is where investors meet investment opportunities in Africa”. That’s true. There were a lot of investors at AFSIC many of who were keen on continuing the conversation after the meeting in London. Many of them were African investors, i.e. headquartered in African countries.</li>
